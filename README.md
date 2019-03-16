@@ -1,6 +1,5 @@
 # Surfs Up!
 
-![surfs-up.jpeg](Images/surfs-up.jpeg)
 
 Congratulations! You've decided to treat yourself to a long holiday vacation in Honolulu, Hawaii! To help with your trip planning, you need to do some climate analysis on the area. The following outlines what you need to do.
 
@@ -50,7 +49,6 @@ To begin, use Python and SQLAlchemy to do basic climate analysis and data explor
 
   * Plot the results as a histogram with `bins=12`.
 
-    ![station-histogram](Images/station-histogram.png)
 
 ### Temperature Analysis (Optional)
 
@@ -64,7 +62,7 @@ To begin, use Python and SQLAlchemy to do basic climate analysis and data explor
 
   * Use the peak-to-peak (tmax-tmin) value as the y error bar (yerr).
 
-    ![temperature](Images/temperature.png)
+  
 
 ### Other Recommended Analysis (Optional)
 
@@ -82,7 +80,6 @@ To begin, use Python and SQLAlchemy to do basic climate analysis and data explor
 
   * Use Pandas to plot an area plot (`stacked=False`) for the daily normals.
 
-    ![daily-normals](Images/daily-normals.png)
 
 - - -
 
